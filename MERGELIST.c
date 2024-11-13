@@ -1,3 +1,4 @@
+//MERGE TWO LINKED LIST ONE LIST AFTER ANOTHER
 #include <stdio.h>
 #include<stdlib.h>
 struct node
