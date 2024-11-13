@@ -1,3 +1,4 @@
+//MERGE TWO LINKED LIST ALTERNATIVELY
 #include <stdio.h>
 #include <stdlib.h>
 
